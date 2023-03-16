@@ -1,0 +1,16 @@
+.forms label{
+	display: block;
+text-align: center;
+}
+.button{
+	background-color: #4CAF50; 
+	margin: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	cursor: pointer;
+}
